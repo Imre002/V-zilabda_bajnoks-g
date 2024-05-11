@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vizilabda</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="signup">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="email">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="password2">Jelszó újra</string>
+    <string name="cancel">Mégse</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

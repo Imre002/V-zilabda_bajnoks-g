@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514520298274",
+    "project_id": "vizilabda-a3554",
+    "storage_bucket": "vizilabda-a3554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514520298274:android:d34d43faa8947f0acd6b7b",
+        "android_client_info": {
+          "package_name": "com.example.vizilabda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-X5Vcv89eBxjsPlB3f2AZL2tKq88iD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
