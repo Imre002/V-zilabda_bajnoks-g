@@ -8,4 +8,38 @@
     <string name="password2">Jelszó újra</string>
     <string name="cancel">Mégse</string>
     <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="data_item_team">
+        <item>Ferencvárosi TC</item>
+        <item>BVSC-Zugló</item>
+        <item>Vasas</item>
+        <item>OSC Újbuda</item>
+        <item>Szolnok</item>
+        <item>Honvéd</item>
+        <item>Kaposvár</item>
+        <item>Szeged</item>
+        <item>Miskolc</item>
+        <item>UVSE</item>
+        <item>Eger</item>
+        <item>Szentes</item>
+        <item>PVSK</item>
+        <item>KSI SE</item>
+    </string-array>
+
+    <array name="data_item_point">
+        <item>39</item>
+        <item>33</item>
+        <item>33</item>
+        <item>28</item>
+        <item>27</item>
+        <item>25</item>
+        <item>19</item>
+        <item>18</item>
+        <item>15</item>
+        <item>12</item>
+        <item>7</item>
+        <item>7</item>
+        <item>4</item>
+        <item>3</item>
+    </array>
 </resources>
